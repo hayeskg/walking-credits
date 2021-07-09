@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          tread with thought
+          tread softly
         </p>
 
         <div className={styles.grid}>
