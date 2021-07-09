@@ -34,7 +34,7 @@ export default function Home() {
             href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
           >
-            <h2>Planet</h2>
+            <h2>Purpose</h2>
             <p>Regenerative nature for a fairer future.</p>
           </a>
         </div>
