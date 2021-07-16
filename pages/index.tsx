@@ -21,23 +21,24 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://hayeskg.medium.com/" className={styles.card}>
             <h2>Blog</h2>
             <p>Words on engineering, technology, sustainability, agriculture and more.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://www.kristofhayes.me/" className={styles.card}>
             <h2>Tech</h2>
             <p>Solving problems - systems and processes.</p>
           </a>
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://listt.io/"
             className={styles.card}
           >
             <h2>Purpose</h2>
             <p>Regenerative nature for a fairer future.</p>
           </a>
         </div>
+
       </main>
 
       <footer className={styles.footer}>
